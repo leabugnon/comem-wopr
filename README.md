@@ -31,7 +31,7 @@ Play tic-tac-toe against the WOPR.
 
 ```bash
 # Clone the repository
-git clone https://github.com/MediaComem/comem-wopr.git
+git clone https://github.com/leabugnon/comem-wopr.git
 cd comem-wopr
 
 # Configure Bundler.
